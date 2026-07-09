@@ -9,7 +9,7 @@ A browser-based memory card matching game built with PHP, MySQL, and Tailwind CS
 
 ## 🔗 Live Demo
 
-[purble-pairs.fwh.is](https://purble-pairs.fwh.is)
+[purble-pairs.gt.tc](http://purble-pairs.gt.tc)
 
 ---
 
